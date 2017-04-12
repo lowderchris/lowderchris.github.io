@@ -3,4 +3,7 @@ title: "Documents"
 permalink: /docs/
 ---
 
-Eventually I'll populate this page with useful guides and other related documents.
+[References](https://github.com/lowderchris/reference) of note for computing recipes and default settings
+
+A [setup guide](https://github.com/lowderchris/setup-macOS) for macOS
+
