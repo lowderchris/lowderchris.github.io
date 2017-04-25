@@ -6,7 +6,7 @@ permalink: /mhd-seminar/
 Our research group conducts a regular series of seminars to highlight research or publications on Tuesdays at 12:00 in room CM204.
 
 - 18 April 2017 - Chris Lowder - [Relative magnetic helicity as a diagnostic of solar eruptivity](https://arxiv.org/abs/1703.10562)
-- 25 April 2017 - Peter Wyper - 
+- 25 April 2017 - Peter Wyper - [Slipping magnetic reconnection, chromospheric evaporation, implosion, and precursors in the 2014 September 10 X1.6-class solar flare](http://iopscience.iop.org/article/10.3847/0004-637X/823/1/41/pdf)
 - 2 May 2017 - Anthony Yeates - 
 - 9 May 2017 - Tim Whitbread - 
 - 16 May 2017 - Chris Prior - 
