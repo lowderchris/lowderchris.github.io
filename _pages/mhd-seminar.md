@@ -10,7 +10,7 @@ Our research group conducts a regular series of seminars to highlight research o
 - 2 May 2017 - Chris Prior - A discussion of coronal field braiding
 - 9 May 2017 - Tim Whitbread - Reconstructing solar magnetic fields from historical observations
 - 16 May 2017 - Anthony Yeates - Coupling the sftdata and DuMFric codes with electric fields
-- 23 May 2017 - Marion Weinzierl - A discussion of Active Region NOAA 12192/12209 - [(McMaken & Petrie 2017)](http://iopscience.iop.org/article/10.3847/1538-4357/aa6d0b/meta) [(Sun et al. 2015)](http://iopscience.iop.org/article/10.1088/2041-8205/804/2/L28/meta) [(Thalmann et al 2015)](http://iopscience.iop.org/article/10.1088/2041-8205/801/2/L23/meta)
+- 23 May 2017 - Marion Weinzierl - A discussion of Active Region NOAA 12192/12209 - [(McMaken & Petrie 2017)](http://iopscience.iop.org/article/10.3847/1538-4357/aa6d0b/meta) [(Sun et al. 2015)](http://iopscience.iop.org/article/10.1088/2041-8205/804/2/L28/meta) [(Thalmann et al. 2015)](http://iopscience.iop.org/article/10.1088/2041-8205/801/2/L23/meta)
 - 30 May 2017 - Chris Lowder - 
 - 6 June 2017 - Peter Wyper - 
 - 13 June 2017 - Anthony Yeates - 
