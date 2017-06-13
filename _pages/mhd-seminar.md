@@ -13,6 +13,6 @@ Our research group conducts a regular series of seminars to highlight research o
 - 23 May 2017 - Marion Weinzierl - A discussion of Active Region NOAA 12192/12209 - [(McMaken & Petrie 2017)](http://iopscience.iop.org/article/10.3847/1538-4357/aa6d0b/meta) [(Sun et al. 2015)](http://iopscience.iop.org/article/10.1088/2041-8205/804/2/L28/meta) [(Thalmann et al. 2015)](http://iopscience.iop.org/article/10.1088/2041-8205/801/2/L23/meta)
 - 30 May 2017 - Chris Lowder - A few words on automated model magnetic flux rope detection, and a preview of things to come at NAM
 - 6 June 2017 - Peter Wyper - Jets and Outflows from Moving Magnetic Features
-- 13 June 2017 - None
+- 13 June 2017 - A discussion of [Enhancing SDO/HMI images using deep learning](https://arxiv.org/abs/1706.02933)
 - 20 June 2017 - Chris Prior - 
 - 27 June 2017 - Tim Whitbread - 
