@@ -16,3 +16,12 @@ Our research group conducts a regular series of seminars to highlight research o
 - 13 June 2017 - A discussion of [Enhancing SDO/HMI images using deep learning](https://arxiv.org/abs/1706.02933)
 - 20 June 2017 - Chris Prior - Journal article discussion
 - 27 June 2017 - Tim Whitbread - Bayesian emulation and history matching: a means of parameter optimization
+- 4 July 2017 - Marion Weinzierl - Practice seminar talk
+- 11 July 2017 - Anthony Yeates, Tim Whitbread, Chris Lowder - Notes from NAM
+- 18 July 2017 - 
+- 25 July 2017 - 
+- 1 August 2017 - 
+- 8 August 2017 - 
+- 15 August 2017 -
+- 22 August 2017 - 
+- 29 August 2017 - 
