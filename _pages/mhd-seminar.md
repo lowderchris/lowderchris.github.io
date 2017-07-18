@@ -23,5 +23,5 @@ Our research group conducts a regular series of seminars to highlight research o
 - 1 August 2017 - Tim Whitbread
 - 8 August 2017 - Anthony Yeates
 - 15 August 2017 - Marion Weinzierl
-- 22 August 2017 - Konstantinos Gourgouliatos
-- 29 August 2017 - Marcus Page
+- 22 August 2017 - Marcus Page
+- 29 August 2017 - Konstantinos Gourgouliatos
