@@ -20,7 +20,7 @@ Our research group conducts a regular series of seminars to highlight research o
 - 11 July 2017 - Anthony Yeates, Tim Whitbread, Chris Lowder - Notes from NAM
 - 18 July 2017 - Chris Lowder - Magnetic Flux Rope Identification and Characterization from Observationally-Driven Solar Coronal Models
 - 25 July 2017 - Chris Prior - An update on experimental data of magnetic braiding and reconnection
-- 1 August 2017 - Tim Whitbread
+- 1 August 2017 - Tim Whitbread - [Solar Cycle Variability Induced by Tilt Angle Scatter in a Babcock--Leighton Solar Dynamo Model](https://arxiv.org/abs/1706.08933v1)
 - 8 August 2017 - Anthony Yeates
 - 15 August 2017 - Marion Weinzierl
 - 22 August 2017 - Marcus Page
