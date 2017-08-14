@@ -22,6 +22,6 @@ Our research group conducts a regular series of seminars to highlight research o
 - 25 July 2017 - Chris Prior - An update on experimental data of magnetic braiding and reconnection
 - 1 August 2017 - Tim Whitbread - [Solar Cycle Variability Induced by Tilt Angle Scatter in a Babcock--Leighton Solar Dynamo Model](https://arxiv.org/abs/1706.08933v1)
 - 8 August 2017 - Anthony Yeates - Is there braiding in the solar corona?
-- 15 August 2017 - Marion Weinzierl
+- 15 August 2017 - Marion Weinzierl - IAUS 335, Exeter 2017: Spotlights
 - 22 August 2017 - Marcus Page
 - 29 August 2017 - Konstantinos Gourgouliatos
