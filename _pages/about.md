@@ -5,7 +5,9 @@ permalink: /about/
 
 ![Magnetic field visualization]({{ site.url }}/assets/images/magpy.png)
 
-Hello world! Currently I'm a postdoctoral research associate at the Department of Mathematical Sciences at Durham University. I work with Anthony Yeates and the Numerical Analysis group on modeling solar flux rope eruptions and their properties/statistics.
+I've worked with the Department of Mathematical Sciences at Durham University. Here, with Anthony Yeates and the Solar Magnetohydrodyanmics group, my research focused on the automated detection of modeled solar magnetic flux ropes. Through consistent tracking over the course of the solar cycle, we can gather statistics and gauge distinctions between eruptive and non-eruptive flux ropes. This code has been developed online as an open source tool, [FRoDO](https://github.com/lowderchris/FRoDO).
+
+My PhD research involved the automated detection of solar coronal holes, features appearing as dark patches in extreme ultraviolet (EUV) and x-ray imagery. As a source of fast solar wind streams, understanding their dynamics provides insight into their spaceweather consequences. Linking databases of EUV observations from [SOHO/EIT](https://en.wikipedia.org/wiki/Extreme_ultraviolet_Imaging_Telescope) and [SDO/AIA](https://en.wikipedia.org/wiki/Solar_Dynamics_Observatory#Atmospheric_Imaging_Assembly_.28AIA.29) we provided a database of coronal hole locations and properties stretching back to 1996. Through the multiple vantage points of the [STEREO](https://en.wikipedia.org/wiki/STEREO) spacecraft, nearly full surface maps of coronal hole boundaries were computed on a 12-hour cadence for solar cycle 24. Through comparison of these coronal hole boundaries with computed open magnetic field boundaries, we can shed some insight into underlying physical parameters that drive surface flux transport.
 
 View my [CV](https://github.com/lowderchris/cv/raw/master/lowder-cv.pdf)
 
