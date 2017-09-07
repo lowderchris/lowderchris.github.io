@@ -26,6 +26,6 @@ Our research group conducts a regular series of seminars to highlight research o
 - 22 August 2017 - Marcus Page - Relative Field Line Helicity
 - 29 August 2017 - Chris Lowder - The Total Solar Eclipse of 21 August 2017
 - 5 September 2017 - Peter Wyper - An update from the 2017 Solar Physics Division meeting
-- 12 September 2017 - Chris Prior - 
+- 12 September 2017 - Chris Prior - Updates from the UCLA experimental data on magnetic braiding and reconnection
 - 19 September 2017 - Tim Whitbread - 
 - 26 September 2017 - Konstantinos Gourgouliatos - 
